@@ -1,0 +1,19 @@
+h1{
+	text-align: center;
+}
+img{
+	max-width: 50%;
+}
+a:link{
+	color: black;
+	background-color: rgba(0,0,255,0.3);
+}
+a:visited{
+	color: blue;
+}
+a:hover{
+	color: red;
+}
+a:active{
+	color: yellow;
+}

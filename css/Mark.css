@@ -1,0 +1,18 @@
+h1{
+	text-align: center;
+}
+a:link{
+	color:blue;
+}
+a:visited{
+	color:red;
+}
+a:hover{
+	color:red;
+}
+a:active{
+	color:green;
+}
+img{
+	max-width: 50%;
+}
